@@ -1,0 +1,4 @@
+Subdomain:  peppert1.mooo.com	CNAME	
+
+
+https://pacific-plateau-22382.herokuapp.com/

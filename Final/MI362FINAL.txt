@@ -1,0 +1,13 @@
+﻿URL                        http://pepperfinal.chickenkiller.com/
+
+
+
+
+Hosted on heroku- 100
+Custom domain name- 100
+Instructor Discretionary- 100
+Use a Heroku addon- 100
+4 complete HTML pages with content- 300
+Custom CSS/Bootstrap- 200
+Two Custom Images- 50
+Integrate a Javascript component- 50
